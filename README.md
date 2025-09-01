@@ -27,9 +27,13 @@ This project focuses on predicting house prices in Bangalore using machine learn
 •K-fold cross-validation to ensure robust evaluation.
 
 📂 **Repository Contents**
+
 ├── Data/                  # Dataset (if sharable, else link to Kaggle)  
-├── Notebooks/             # Jupyter notebooks for preprocessing and modeling  
+
+├── Notebooks/             # Jupyter notebooks for preprocessing and modeling 
+
 ├── Results/               # Model performance metrics, plots  
+
 └── README.md              # Project documentation  
 
  **Outcomes**
